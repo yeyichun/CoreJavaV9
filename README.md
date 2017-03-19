@@ -1,2 +1,2 @@
 # CoreJavaV9
-CoreJavaV9
+CoreJavaV9 is funny.
